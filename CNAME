@@ -1,1 +1,2 @@
-moneybag-staging.policypal.com
+User-agent: *
+Disallow: /
